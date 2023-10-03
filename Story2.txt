@@ -1,12 +1,5 @@
 A gritty, no-nonsense postal worker discovers a forgotten manuscript in the dead-letter office, penned by an anonymous author whose words reveal the hidden desires and regrets of the city's forgotten souls.In the quiet moments between sorting mail, our postal worker finds solace in the manuscript's pages. They become a silent confidant to the anonymous author, sharing in their joys and sorrows, their triumphs and regrets.
-<<<<<<< HEAD
 
 
 kabita changed story 2 and it's not related to story lol.
-=======
-A disillusioned scientist discovers an underground laboratory beneath an old library, offering a chance to unlock groundbreaking discoveries that could reshape the world.
-<<<<<<< HEAD
->>>>>>> 27d957559aa6b487c3b85c929f1dbbe7e91514cb
-=======
-And now he was thinking about life.
->>>>>>> 3cf3a35f08f21c16fc1c0676ab4a782d38ea6c99
+your name
