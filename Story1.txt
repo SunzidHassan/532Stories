@@ -2,6 +2,10 @@ As the sun sets over a desolate highway motel, a juice-soaked writer confronts h
 
 Change
 
+<<<<<<< HEAD
 Nothing to be changed
 
 kabita changed this
+=======
+A struggling musician stumbles upon a hidden music competition in an abandoned theater, where victory could transform her destiny.
+>>>>>>> 1d4a1d9660f22437675ccc4bd63a1827c9f44d61
